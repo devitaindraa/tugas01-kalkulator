@@ -1,0 +1,10 @@
+D:\kuliah\SEM3\pemrograman lanjut\p1\Calculator\Tugas1\bin\Debug\Tugas1.exe.config
+D:\kuliah\SEM3\pemrograman lanjut\p1\Calculator\Tugas1\bin\Debug\Tugas1.exe
+D:\kuliah\SEM3\pemrograman lanjut\p1\Calculator\Tugas1\bin\Debug\Tugas1.pdb
+D:\kuliah\SEM3\pemrograman lanjut\p1\Calculator\Tugas1\obj\Debug\Tugas1.csprojResolveAssemblyReference.cache
+D:\kuliah\SEM3\pemrograman lanjut\p1\Calculator\Tugas1\obj\Debug\Tugas1.Form1.resources
+D:\kuliah\SEM3\pemrograman lanjut\p1\Calculator\Tugas1\obj\Debug\Tugas1.Properties.Resources.resources
+D:\kuliah\SEM3\pemrograman lanjut\p1\Calculator\Tugas1\obj\Debug\Tugas1.csproj.GenerateResource.Cache
+D:\kuliah\SEM3\pemrograman lanjut\p1\Calculator\Tugas1\obj\Debug\Tugas1.csproj.CoreCompileInputs.cache
+D:\kuliah\SEM3\pemrograman lanjut\p1\Calculator\Tugas1\obj\Debug\Tugas1.exe
+D:\kuliah\SEM3\pemrograman lanjut\p1\Calculator\Tugas1\obj\Debug\Tugas1.pdb
